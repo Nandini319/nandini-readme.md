@@ -1,26 +1,90 @@
-# Hi, I'm Nandini 👋 
+Welcome to my GitHub — where I share my projects, experiments, and learnings.
 
-Passionate iOS engineer with a love for building elegant and performant mobile applications. Welcome to my corner on GitHub, where I share my open-source projects and contributions.
+🚀 About Me
 
-## 🌱 I'm Currently Learning
+📱 Senior Mobile Engineer with expertise in iOS, Android, and Cross-Platform apps
 
-- I am creating a series and learning SwiftUI.
+💡 Passionate about SwiftUI architecture, performance optimization, and scalable app design
 
-## 📫 Let's Connect
+🤖 Exploring AI/ML integration in mobile applications
 
-- LinkedIn: (https://www.linkedin.com/in/nandini-vithlani-190574279/)
+🏥 Currently working on Healthcare technology platforms
 
-## 📝 Latest Blog Posts
+👩‍💻 Experienced in leading teams and delivering end-to-end mobile products
 
-- [Mastering Swift UI](https://medium.com/swiftable/mastering-swiftui-navigation-a39dba581244)
-- [Bringing Your A-Game to iOS Development: Strategies for Success](https://medium.com/swiftable/bringing-your-a-game-to-ios-development-strategies-for-success-a70839096d29)
+🛠 Tech Stack
+Mobile Development
 
-## 💬 Ask Me Anything
+iOS: Swift, SwiftUI, UIKit
 
-Feel free to reach out if you have any questions or want to collaborate on a project. I'm always open to new opportunities and discussions.
+Android: Kotlin, Jetpack Compose
 
-## ❤️ Support My Work
+Cross Platform: Flutter
 
-If you find my projects and contributions helpful, consider supporting my work:
+Programming Languages
 
-Thank you for visiting my GitHub profile! 😊
+Swift • Kotlin • Java • Dart • Python • C++
+
+Frameworks & Tools
+
+TensorFlow • PyTorch • HealthKit • WebSockets
+
+Cloud & Databases
+
+MySQL • SQLite • PostgreSQL
+
+DevOps
+
+GitHub • Bitbucket • Bitrise • Docker • Kubernetes
+
+UI/UX
+
+Figma • Adobe XD
+
+💼 What I Work On
+
+Building scalable mobile architectures
+
+Developing AI-powered mobile experiences
+
+Creating modular SwiftUI component systems
+
+Integrating HealthKit and healthcare data platforms
+
+Improving performance, stability, and crash-free rates
+
+🌱 Currently Learning
+
+Advanced SwiftUI architecture patterns
+
+AI integration in mobile apps
+
+Building high-performance scalable mobile systems
+
+✍️ Writing & Sharing Knowledge
+
+Mastering SwiftUI Navigation
+
+Strategies for Success in iOS Development
+
+🤝 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/nandini-vithlani-190574279/
+
+Email: nandini3199@gmail.com
+
+💬 Ask Me Anything
+
+Feel free to reach out if you want to discuss:
+
+Mobile architecture
+
+SwiftUI development
+
+AI in mobile apps
+
+Freelance collaboration
+
+Startup projects
+
+⭐ If you find my projects useful, feel free to star the repository!
